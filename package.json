@@ -1,0 +1,8 @@
+{
+  "name": "node_redis-examples",
+  "version": "0.0.0",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "redis": "~0.10.0"
+  }
+}
